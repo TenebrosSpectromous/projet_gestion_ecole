@@ -1,0 +1,11 @@
+connexion admin
+id : admin
+mdp : jdupont1
+
+connexion prof
+id : nom du prof
+mdp : (première lettre du prénom)(nom du prof)1
+
+connexion élève
+id : nom de l'élève
+mdp : (première lettre du prénom)(nom de l'élève)1
